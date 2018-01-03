@@ -1,0 +1,124 @@
+/* vim: set ts=2 sw=2 sts=2 et : */
+
+@import url('https://fonts.googleapis.com/css?family=Cutive+Mono|Merriweather|Open+Sans:400|Open+Sans+Condensed:700');
+
+body {
+  margin: auto;
+  max-width: 48em;  
+  font-size: 2.3vmin;
+  font-family: Merriweather, serif;
+  color: #222;
+  /*border: 1px solid; /* DEBUG */
+}
+
+h1, h2, h3 {
+  font-family: "Open Sans Condensed";
+  color: #444;
+}
+
+body main {
+  padding-top: 2em;
+  min-height: 60vh;
+}
+
+a, a:visited {
+  color: #333;
+}
+a:hover {
+  color: #666;
+}
+
+/* ------ header ------ */
+
+header {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  font-family: "Cutive Mono", monospace;
+}
+
+header a {
+  text-decoration: none;
+}
+
+header h1 {
+  font-weight: lighter;
+  font-family: "Cutive Mono", monospace;
+  display: block;
+  color: #333333;
+}
+header h1:before, header h1:after {
+  color: #BBBBBB;
+  position: relative;
+}
+header h1:before {
+  content: "<";
+  left: 0.4em;
+}
+header h1:after {
+  content: ">";
+  right: 0.4em;
+}
+header .side-links {
+  float: right;
+  position: relative;
+  top: -3.9em;
+  border: none;
+  padding: 1em;
+}
+header .side-links a {
+  padding: 0.5em;
+}
+/* ------ navigation ------ */
+
+nav {
+  border-bottom: 1px solid #BBBBBB;
+  font-size: 1em;
+  font-family: "Open Sans", sans-serif;
+  font-weight: normal;
+}
+
+nav div {
+  display: block;
+  max-width: 10em;
+  text-align: center;
+}
+
+nav div a {
+  display: block;
+  padding: 0.5em 1em 0.5em 1em;
+  color: #444;
+  font-style: none;
+  text-decoration: none;
+}
+
+nav div a:hover {
+  color:#222;
+}
+
+nav div div a {
+  font-size: 0.8em;
+}
+
+nav div:hover div {
+  display: block;
+  width: 100%;
+  position: absolute;
+  background-color: #fff;
+  border: solid 1px #bbb;
+  border-top-color: #ddd;
+}
+
+nav div div {
+  display: none;
+  background-color: inherit;
+}
+
+/* ----- footer ------ */
+
+footer {
+  color: #888;
+  font-size: 0.8em;
+  border-top: 1px solid #bbb;
+  padding: 1em;
+  text-align: right;
+}

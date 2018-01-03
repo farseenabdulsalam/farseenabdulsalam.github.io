@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://farseenabdulsalam.github.io/about/</loc>
+    <lastmod>2018-01-03T11:21:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farseenabdulsalam.github.io/adventures/android/</loc>
+    <lastmod>2017-12-25T11:22:34+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://farseenabdulsalam.github.io/adventures/</loc>
+    <lastmod>2017-12-25T11:22:34+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://farseenabdulsalam.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://farseenabdulsalam.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://farseenabdulsalam.github.io/</loc>
+    <lastmod>2018-01-03T11:21:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
