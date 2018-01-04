@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>happycoder</title>
-    <link>https://farseenabdulsalam.github.io/</link>
-    <description>Recent content on happycoder</description>
+    <title>Posts on happycoder</title>
+    <link>https://farseenabdulsalam.github.io/posts/</link>
+    <description>Recent content in Posts on happycoder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Jan 2018 15:49:39 +0000</lastBuildDate>
     
-	<atom:link href="https://farseenabdulsalam.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://farseenabdulsalam.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -25,16 +25,6 @@ Things go wrong for a reason.
 I&amp;rsquo;m more awake and less day dreaming.
 More realistic, yet optimistic.
 I&amp;rsquo;m alive.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://farseenabdulsalam.github.io/about/</link>
-      <pubDate>Wed, 03 Jan 2018 11:21:05 +0000</pubDate>
-      
-      <guid>https://farseenabdulsalam.github.io/about/</guid>
-      <description>Minimalist.
-Bare metal enthusiast.</description>
     </item>
     
   </channel>
